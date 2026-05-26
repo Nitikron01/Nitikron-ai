@@ -1,0 +1,7 @@
+{"timestamp": "2026-05-26T08:19:21.730257", "event": "user_input", "message": "บันทึกยอดขายชาไทย 3 แก้ว ราคา 55 บาท"}
+{"timestamp": "2026-05-26T08:22:44.463324", "event": "user_input", "message": "บันทึกยอดขายชาไทย 3 แก้ว ราคา 55 บาท"}
+{"timestamp": "2026-05-26T08:23:56.414078", "event": "user_input", "message": "บันทึกยอดขายชาไทย 3 แก้ว ราคา 55 บาท"}
+{"timestamp": "2026-05-26T08:27:41.372892", "event": "user_input", "message": "บันทึกยอดขายชาไทย 3 แก้ว ราคา 55 บาท"}
+{"timestamp": "2026-05-26T08:31:42.012499", "event": "user_input", "message": "บัทึกยอดขายชาไทย 3 แก้ว ราคา 55 บาท"}
+{"timestamp": "2026-05-26T08:31:43.620202", "event": "llm_response", "raw": "{\"action\": \"log_sale\", \"args\": {\"menu\": \"ชาไทย\", \"quantity\": 3, \"price\": 55}}"}
+{"timestamp": "2026-05-26T08:31:43.622246", "event": "tool_result", "action": "log_sale", "result": {"status": "success", "menu": "ชาไทย", "quantity": 3, "price": 55, "total": 165, "timestamp": "2026-05-26T08:31:43.622246"}}

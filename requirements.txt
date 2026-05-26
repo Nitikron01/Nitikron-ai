@@ -1,4 +1,5 @@
+google-genai
+python-dotenv
 gspread
 google-auth
 requests
-python-dotenv
